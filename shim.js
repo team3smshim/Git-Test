@@ -6,6 +6,9 @@ let names = [
   'jeff bezos',
   'larry pages',
   'tim cook',
+  'tomato',
+  'jerry',
+  'team',
 ];
 
 names.forEach((item) => {
